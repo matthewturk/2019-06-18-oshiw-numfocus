@@ -127,6 +127,16 @@ By increasing awareness of the challenges of sustainability, socializing individ
 
 ---
 
+## Current State
+
+#### The ecosystem has changed.
+
+NumFOCUS is different.  There are new corporate and semi-corporate players in this space.  Old corporate partners have changed.
+
+<p class="fragment">Our plan was change-resilient, but our implementation was not.</p>
+
+---
+
 ## (My) Lessons Learned
 
 <ol>
@@ -138,10 +148,6 @@ By increasing awareness of the challenges of sustainability, socializing individ
 
 ---
 
-## Current State
+## Thanks
 
-#### The ecosystem has changed.
-
-NumFOCUS is different.  There are new corporate and semi-corporate players in this space.  Old corporate partners have changed.
-
-<p class="fragment">Our plan was change-resilient, but our implementation was not.</p>
+Thanks for letting me participate in this workshop!

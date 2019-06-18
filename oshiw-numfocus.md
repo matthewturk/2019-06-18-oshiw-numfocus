@@ -110,7 +110,7 @@ We wanted to foster *genuine* relationships, either through memoranda of underst
 
 We wanted to build methods for building revenue streams between industry and open source:
 
- 1. Term-of-work relationships: donations of specific amounts tied to specific improvements ("$50,000 for development of new date time support" or "$250,000 to implement OpenMP array operations")
+ 1. Term-of-work relationships: donations of specific amounts tied to specific improvements ("50,000 for development of new date time support" or "250,000 to implement OpenMP array operations")
  2. Service Level Agreements (SLAs) that can be included in grants ("To support NumPy in your NSF grant, use this text and SLA to provide a portion of your grant funds to support ongoing development through fixed-price consulting services.")
  
 Projects didn't know how

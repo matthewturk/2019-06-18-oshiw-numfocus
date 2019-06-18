@@ -131,7 +131,7 @@ By increasing awareness of the challenges of sustainability, socializing individ
 
 <ol>
 <li class="fragment">"Data" has changed the game.  Things that corporations <i>value</i> are not trivially identifiable.</li>
-<li class="fragment">"One size" barely fits most.  The NumFOCUS projects are different from other open source projects and different from <i>each other</i>.</li>
+<li class="fragment">"One size" barely fits most.  The NumFOCUS projects are different from other open source projects and different from <i>each other</i> -- especially in relative composition of different types of engagement.</li>
 <li class="fragment">Corporate trajectories and relationships are emergent behavior, not governed by fundamental principles.</li>
 <li class="fragment">Doing this work requires personnel time for business, not just bringing in revenue, but developing and managing the processes and establishing the relationships</li>
 </ol>
